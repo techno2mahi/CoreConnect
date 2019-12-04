@@ -1,0 +1,8 @@
+src/CoreConnect/CoreConnect.API/obj/
+src/CoreConnect/CoreConnect.BLL/obj/
+src/CoreConnect/CoreConnect.Common/obj/
+src/CoreConnect/CoreConnect.DAL/obj/
+src/CoreConnect/CoreConnect.Identity/obj/
+src/CoreConnect/.vs/
+src/CoreConnect/CoreConnect.API/bin/
+src/CoreConnect/CoreConnect.Contracts/obj/
